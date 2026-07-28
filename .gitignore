@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+secrets/
+/state/
+/logs/
+/10_inbox/private/
+/90_receipts/private/
