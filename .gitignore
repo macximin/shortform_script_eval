@@ -6,3 +6,5 @@ secrets/
 /logs/
 /10_inbox/private/
 /90_receipts/private/
+__pycache__/
+*.py[cod]
